@@ -1,2 +1,3 @@
 I love Github
+This is a commit for the text file
 Yahoo!
